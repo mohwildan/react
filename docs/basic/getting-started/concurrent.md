@@ -1,6 +1,7 @@
 ---
 id: concurrent
-title: Concurrent React/React Suspense
+title: Concurrent React/React Suspense,
+thanks !!!
 ---
 
 _Not written yet._ watch <https://github.com/sw-yx/fresh-async-react> for more on React Suspense and Time Slicing.
